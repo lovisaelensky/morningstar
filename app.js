@@ -33,7 +33,7 @@ ScrollReveal().reveal('.img-container', {
   easing: 'ease',
   scale: '0.6',
   reset: false,
-  delay: 0,
+  delay: -100,
 });
 ScrollReveal().reveal('.cupola-text', {
   origin: 'left',

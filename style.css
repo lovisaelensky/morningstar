@@ -91,7 +91,7 @@ button {
   height: 43rem;
   position: absolute;
   right: 0rem;
-  bottom: 2rem;
+  bottom: 0rem;
   /* border: 2px solid #003e78;
   border-radius: 5px; */
 }
@@ -121,7 +121,7 @@ span:hover {
   left: 30%;
   transform: rotate(90deg);
   border-bottom: 1px solid white;
-  width: 230px;
+  width: 200px;
   padding-bottom: 10px;
   overflow: hidden;
 }
@@ -159,6 +159,7 @@ span:hover {
   padding: 20px 10%;
   font-size: 1.2rem;
   font-family: 'ibm-plex-mono', sans-serif;
+  font-weight: 200;
 }
 
 .cupola {
@@ -185,6 +186,7 @@ span:hover {
   font-size: 1.2rem;
   font-family: 'ibm-plex-mono', sans-serif;
   width: 85%;
+  font-weight: 200;
 }
 .cupola-img {
   position: absolute;
