@@ -69,7 +69,7 @@ button {
 .hero-text {
   position: relative;
   width: 49%;
-  top: 200px;
+  top: 40%;
   left: 8%;
   z-index: 2;
 }
@@ -151,12 +151,12 @@ span:hover {
   color: white;
   font-family: 'ibm-plex-mono', sans-serif;
   font-weight: 800;
-  font-size: 3.3rem;
+  font-size: 2rem;
 }
 .packages-text > p {
   color: white;
   padding: 20px 10%;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: 'ibm-plex-mono', sans-serif;
   font-weight: 200;
 }
@@ -177,12 +177,12 @@ span:hover {
   color: white;
   font-family: 'ibm-plex-mono', sans-serif;
   font-weight: 800;
-  font-size: 3.3rem;
+  font-size: 2rem;
 }
 .cupola-text > p {
   color: white;
   padding: 20px 0;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: 'ibm-plex-mono', sans-serif;
   width: 85%;
   font-weight: 200;
