@@ -120,7 +120,7 @@ span:hover {
   left: 30%;
   transform: rotate(90deg);
   border-bottom: 1px solid white;
-  width: 200px;
+  width: 120px;
   padding-bottom: 10px;
   overflow: hidden;
 }
@@ -167,9 +167,9 @@ span:hover {
   padding: 65px 0;
 }
 .cupola-text {
-  position: relative;
+  position: absolute;
   width: 49%;
-  top: 450px;
+  bottom: 15%;
   left: 8%;
   z-index: 2;
 }
@@ -189,7 +189,7 @@ span:hover {
 }
 .cupola-img {
   position: absolute;
-  height: 48rem;
+  height: 90%;
   right: 0rem;
   top: 2rem;
 }
